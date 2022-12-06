@@ -15,6 +15,9 @@ public class Contacts {
         this.phonenumber = phonenumber;
     }
 
+    public Contacts() {
+    }
+
     public String getFirstname() {
         return firstname;
     }
